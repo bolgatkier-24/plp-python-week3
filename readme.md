@@ -4,8 +4,8 @@
 
 `bug_hunt.py` fixes three bugs in a while loop so that it correctly calculates the sum of 1 to 5.
 
-# The hardest bug to find was the `while` loop condition because the program ran without an error message, but it stopped before adding 5. I knew something was wrong because the program printed the wrong answer instead of the expected `15`, so I checked the loop condition and changed `< 5` to `<= 5`.
-The expected grade_reporter.py results are:
+ The hardest bug to find was the `while` loop condition because the program ran without an error message, but it stopped before adding 5. I knew something was wrong because the program printed the wrong answer instead of the expected `15`, so I checked the loop condition and changed `< 5` to `<= 5`.
+# output grade_reporter.py results are:
 
 72 B
 45 F
